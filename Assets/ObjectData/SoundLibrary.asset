@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09fa74d55b67e47759557e447a4184a6, type: 3}
+  m_Name: SoundLibrary
+  m_EditorClassIdentifier: 
+  soundUnits:
+  - key: click
+    clipRef:
+      m_AssetGUID: ea35ef67dcdeb4e86b04fc78eb5ecfe5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - key: bmmenu
+    clipRef:
+      m_AssetGUID: 7ef19a1c6b38d40b7a27fd40a65ee1d0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - key: fightingBgm
+    clipRef:
+      m_AssetGUID: de5f8925a0c6f402ebc75f2328ddff0f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - key: fightingBgm1
+    clipRef:
+      m_AssetGUID: 764f3b203d04948c9bc4f718b1625cd2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - key: fireball
+    clipRef:
+      m_AssetGUID: 06015e597166c4690b26eb15c97f4d8e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - key: explore
+    clipRef:
+      m_AssetGUID: 32d96aca15ed143e59d7ba68c9c38c33
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

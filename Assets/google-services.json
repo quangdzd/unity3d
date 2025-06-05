@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577206581227",
+    "project_id": "king-god-53d03",
+    "storage_bucket": "king-god-53d03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577206581227:android:cd25613e367881c4894bae",
+        "android_client_info": {
+          "package_name": "com.quang.kinggod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUITKN5zVoRsU0bjOPXGmNknV9UDpC4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

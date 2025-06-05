@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40435e36ac7c1444cb6921176c6dd703, type: 3}
+  m_Name: EnemyData2
+  m_EditorClassIdentifier: 
+  id: 2
+  StatsForEnemies:
+  - <_name>k__BackingField: Knight
+    <_hp>k__BackingField: 100
+    <_dmg>k__BackingField: 50
+    <_attackThreshold>k__BackingField: 2
+    <_attackSpeed>k__BackingField: 1.5
+    <_speed>k__BackingField: 1
+    <_image>k__BackingField: {fileID: 21300000, guid: 78ea97298026843e2bbbe116ea20e050, type: 3}
+    <_coin>k__BackingField: 5
+    <prefab>k__BackingField: {fileID: 36770506996859697, guid: 1b6273d5925f2417a8bee78f3d674b77, type: 3}
+  - <_name>k__BackingField: Mage
+    <_hp>k__BackingField: 100
+    <_dmg>k__BackingField: 10
+    <_attackThreshold>k__BackingField: 200
+    <_attackSpeed>k__BackingField: 2
+    <_speed>k__BackingField: 1
+    <_image>k__BackingField: {fileID: 21300000, guid: b7ff2afb132a348d99e923d7e0ac4f4e, type: 3}
+    <_coin>k__BackingField: 2
+    <prefab>k__BackingField: {fileID: 3975804007833626544, guid: 8856e61cb875049b6a372fc17c1157ee, type: 3}
+  - <_name>k__BackingField: Rogue
+    <_hp>k__BackingField: 0
+    <_dmg>k__BackingField: 0
+    <_attackThreshold>k__BackingField: 0
+    <_attackSpeed>k__BackingField: 0
+    <_speed>k__BackingField: 0
+    <_image>k__BackingField: {fileID: 21300000, guid: 84232df8f5c2a4991aab884a57e61da5, type: 3}
+    <_coin>k__BackingField: 0
+    <prefab>k__BackingField: {fileID: 1457151070304146650, guid: 629d9690e28594adeaa688639512a2d4, type: 3}
+  - <_name>k__BackingField: Barbarian
+    <_hp>k__BackingField: 0
+    <_dmg>k__BackingField: 0
+    <_attackThreshold>k__BackingField: 0
+    <_attackSpeed>k__BackingField: 0
+    <_speed>k__BackingField: 0
+    <_image>k__BackingField: {fileID: 21300000, guid: 15e92282c2e284cda95523ec32db5557, type: 3}
+    <_coin>k__BackingField: 0
+    <prefab>k__BackingField: {fileID: 2248645703793816084, guid: 49875c771cdc94ceea509c5b65d20f23, type: 3}
+  - <_name>k__BackingField: RougueHooded
+    <_hp>k__BackingField: 0
+    <_dmg>k__BackingField: 0
+    <_attackThreshold>k__BackingField: 0
+    <_attackSpeed>k__BackingField: 0
+    <_speed>k__BackingField: 0
+    <_image>k__BackingField: {fileID: 21300000, guid: ae6c2585fc28d404cbf2877d07e0b153, type: 3}
+    <_coin>k__BackingField: 0
+    <prefab>k__BackingField: {fileID: 5705326672963699277, guid: cc0873de6d9b949eeafc311f8b1db46b, type: 3}
